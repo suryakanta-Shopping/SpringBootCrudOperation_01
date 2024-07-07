@@ -17,6 +17,7 @@ import com.nt.surya.entity.Student;
 import com.nt.surya.service.IStudentService;
 
 @RestController
+//@Controller
 @RequestMapping("/std")
 public class StudentController {
 
